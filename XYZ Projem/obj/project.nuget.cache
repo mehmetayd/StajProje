@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xe3JYyNV5Lz96QBCib+VxOoIIbU/3X99A8W/xXX1gkDKvcteFGCFrYkgxl/rOLTrIn8hY+JwX1+aHKaM5httQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\XYZ Projem\\XYZ Projem\\XYZ Projem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\google.apis\\1.52.0\\google.apis.1.52.0.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\google.apis.auth\\1.52.0\\google.apis.auth.1.52.0.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\google.apis.calendar.v3\\1.52.0.2375\\google.apis.calendar.v3.1.52.0.2375.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\google.apis.core\\1.52.0\\google.apis.core.1.52.0.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
